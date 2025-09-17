@@ -1,6 +1,7 @@
 streamlit
-Pillow
+pillow
 google-generativeai
+reportlab
 Datetime
 
 
