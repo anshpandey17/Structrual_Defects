@@ -1,8 +1,0 @@
-streamlit
-pillow
-google-generativeai
-reportlab
-Datetime
-
-
-
